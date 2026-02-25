@@ -1,0 +1,11 @@
+{
+  "name": "CashPilot",
+  "short_name": "CashPilot",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#11111B",
+  "theme_color": "#6C5CE7",
+  "description": "Gestione entrate, spese, budget e obiettivi di risparmio",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
